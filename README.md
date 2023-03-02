@@ -28,7 +28,8 @@ The following data preprocessing techniques were employed:
 The following visualization techniques were used to explore correlations between attributes and to find stroke count among the different features:
 
 - Scatter plots
-- Correlation matrix
+- Violin Plot
+- Count Plot
 - Bar plots
 - Heat maps
 
