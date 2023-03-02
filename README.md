@@ -3,6 +3,9 @@
 ## Overview
 This repository contains the code and data for my data mining project, where I explored correlations between stroke data and various health indicators among different groups of individuals. The project involved basic data preprocessing techniques such as one-hot encoding, imputation, and outlier detection and removal using quantile-based capping and flooring to lower the level of skewness, as well as visualization techniques to find correlations between attributes and to find stroke count among the different features.
 
+## Dataset
+Link to the original dataset used in the project: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+
 ## Features
 The dataset used in this project includes the following features:
 
